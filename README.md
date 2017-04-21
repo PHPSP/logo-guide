@@ -14,14 +14,15 @@
 
 ## Proporções
 
-Logo: 460x150
-Borda: 18
-Espaçamento para composições: 9
-Altura para composição de cidade: 52
-Altura para composição de evento: 72
+- Logo: 460x150
+- Borda: 18
+- Espaçamento para composições: 9
+- Altura para composição de cidade: 52
+- Altura para composição de evento: 72
 
 ## Regra de coloração
 
 PHPSP e complemento devem ter cores diferentes, somente entre as definidas no topo (azul, grafite, prata e branco). 
+
 O contraste com o fundo deve ser forte. 
 
